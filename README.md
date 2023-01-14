@@ -10,7 +10,9 @@
 
 ## Features
 - User can play the game
+- Responsive Design
 - Hint!!! The answer is in the console!!!
+
 
 ## Libraries
 - React
